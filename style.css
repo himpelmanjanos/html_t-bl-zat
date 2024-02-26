@@ -1,0 +1,11 @@
+body{
+    background-color: silver
+    font-family: "Kdam Thmor Pro", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.table{
+    width: 80%;
+    margin: 0 auto;
+}
